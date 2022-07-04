@@ -8,4 +8,4 @@ if nombre_estudiante.startswith("F"):
 elif nombre_estudiante.startswith("G"):
     print(nombre_estudiante,"Felicidades, los nombres que inician con 'G' salen 15 minutos antes hoy!")
 else:
-    print(nombre_estudiante, "usted se queda hasta las 6pm.")
+    print(nombre_estudiante, "usted se queda hasta las 10pm.")
